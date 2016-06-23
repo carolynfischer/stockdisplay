@@ -1,0 +1,22 @@
+body {
+    background-color: yellowgreen;
+}
+
+.symbol {
+    text-align: center;
+    font-size: 200px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.stock-price {
+    color: darkgreen;
+    font-size: 380px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+}
+
